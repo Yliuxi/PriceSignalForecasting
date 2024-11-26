@@ -1,2 +1,2 @@
-# Single-price-imbalance-settlement
+# Price Signal Forecasting
 Bidding strategy for the day-ahead market with single price imbalance settlement and forecasting datasets for market prices.
