@@ -1,2 +1,2 @@
 # Price Signal Forecasting
-Bidding strategy for the day-ahead market with single price imbalance settlement and forecasting datasets for market prices.
+Price Signal Forecasting for Day-ahead Offering Strategy of Price-Maker Renewable Energy Producers with single price imbalance settlement.
